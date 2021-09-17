@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: article
 title:  "I'm aqawma"
 name: "aqawma"
 desc: "Hi, I'm aqawma. Welcome to my website!"
