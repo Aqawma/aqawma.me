@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "I'm aqawma"
 desc: "Hi, I'm aqawma. Welcome to my website!"
 ---
